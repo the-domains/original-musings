@@ -30,8 +30,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.entrepreneur.com/article/276297'
 title: 'The Kids Are All Right: 5 Simple Ways to Instill an Entrepreneurial Mindset'
-datePublished: '2016-07-11T04:59:16.998Z'
-dateModified: '2016-07-11T04:30:05.184Z'
+datePublished: '2016-07-11T04:59:17.015Z'
+dateModified: '2016-07-11T04:24:04.100Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-11-the-kids-are-all-right-5-simple-ways-to-instill-an-entrepre.md
